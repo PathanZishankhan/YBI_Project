@@ -1,6 +1,6 @@
 # YBI_Project
 <h2>📌 Project Overview</h2>
-<p>This project focuses on analyzing financial news articles to extract key insights, trends, and sentiment related to market movements. The analysis is performed using machine learning and natural language processing (NLP) techniques to interpret the impact of financial news on stock trends.</p>
+<p>This project focuses on analyzing financial news articles to extract key insights, trends, and sentiment related to market movements. The analysis is performed using machine learning and Random Forest Classification techniques to interpret the impact of financial news on stock trends.</p>
 
 <h2>🔍 Features</h2>
 <ul>
